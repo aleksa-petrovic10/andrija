@@ -24,7 +24,4 @@ describe("Register", () => {
         cy.get('button[type="submit"]').click()
         
     })
-    // it ('Create gallery', () => {
-    //     cy.get('a[href="/create"]')
-    // })
  })
